@@ -1,5 +1,8 @@
 package com.demoSpring.spring.learnspringframework.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class SuperContraGame implements GamingConsole {
 	
 
